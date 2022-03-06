@@ -9,4 +9,4 @@ Ukraine sol wallet: 66pJhhESDjdeBBDdkKmxYYd7q6GUggYPWjxpMKNX39KV
 starting sol : 6
 
 
-issues: default RPC not good enough. 
+issues: default RPC not good enough.  

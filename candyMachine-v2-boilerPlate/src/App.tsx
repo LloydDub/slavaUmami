@@ -1,5 +1,6 @@
 import "./App.css";
 import { useMemo } from "react";
+import TweetEmbed from 'react-tweet-embed'
 
 import Minter from "./Minter";
 
@@ -71,22 +72,22 @@ const App = () => {
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+              Mint
             </a>
           </li>
           <li>
             <a href="/#link2" onClick={toggleMenu}>
-              Link 2
+              What is it for?
             </a>
           </li>
           <li>
             <a href="/#link3" onClick={toggleMenu}>
-              Link 3
+              How to help
             </a>
           </li>
           <li>
             <a href="/#link4" onClick={toggleMenu}>
-              Link 4
+              Questions
             </a>
           </li>
           <li>
@@ -108,16 +109,15 @@ const App = () => {
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
           <a className="hide-800" href="/#link1">
-            Link 1
+            Mint
           </a>
           <a className="hide-800" href="/#link2">
-            Link 2
+          What is it for?
           </a>
           <a className="hide-800" href="/#link3">
-            Link 3
-          </a>
+          How to help         </a>
           <a className="hide-800" href="/#link4">
-            Link 4
+          Questions
           </a>
           <div className="social-icons hide-800">
             <a href="https://twitter.com" target="_blank" rel="noreferrer">
@@ -132,15 +132,13 @@ const App = () => {
       <div className="content-wrapper">
         <header className="card" id="link1">
           <div style={{ padding: "0 24px 0 24px 0" }}>
-            <h3 className="text-secondary-color">Welcome To</h3>
-            <h1 className="pb-3">The Boiler Plate</h1>
+            <h3 className="text-secondary-color">This is</h3>
+            <h1 className="pb-3">Slava Umami</h1>
             <p className="text-secondary-color">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-              scelerisque ipsum non est porta mollis. Donec sapien sapien,
-              dictum eget enim sed, hendrerit semper orci. Donec ante magna,
-              consequat at eros ac, eleifend dictum sem. Nam vitae condimentum
-              lorem. Vestibulum molestie dui turpis, tincidunt porta sem congue
-              nec.
+              On Feburary 24, 2022 Vladamir Putin ordered the Russian military
+               to attack the independence of the Ukrainian people. Slava Umami is a collection of 888 bowls
+               of ramen cooked up on Solana that aims to nurish the fight for Ukraine's freedom. There is no utility, and no benefit
+               to holders other than providing aid to the nation of Ukraine.
             </p>
           </div>
           <div>
@@ -163,19 +161,11 @@ const App = () => {
         </header>
 
         <div id="link2" className="container">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
-          aliquet, semper sapien sed, ornare augue. Phasellus sed velit
-          interdum, sagittis metus quis, facilisis lectus. Cras sollicitudin
-          purus at magna eleifend maximus. Nulla nec nulla in nunc maximus
-          viverra in at mauris. Fusce sodales dolor nisi, et vehicula orci porta
-          id. In placerat nunc sed erat lacinia tincidunt. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus. Vestibulum commodo eget metus
-          vitae tempus. Aliquam pharetra mi at efficitur accumsan. Curabitur
-          venenatis libero a ex porttitor, at auctor turpis hendrerit. Nam
-          commodo, risus non consequat pretium, erat ante auctor purus, a cursus
-          dolor erat at velit. Maecenas dignissim, dolor sed laoreet aliquam,
-          tortor lacus faucibus urna, eget mattis massa sem ac dui. Nam semper
-          hendrerit interdum. Etiam at dictum nisi.
+          On March 1 2022 while scrolling Twitter in complete dismay at the Russian war of agression I saw this tweet from Mykhailo Fedorov, 
+          Vice Prime Minister of Ukraine and Minister of Digital Transformation of Ukraine. I had been thinking about a way to help and that tweet inspired me. I am a new developer and I
+          like to make stuff. I am using what resources I have available to me to launch this project. Half of the minting revenue will be going directly to Ukraine's Solana wallet, as will 100% of secondary sales. I
+          The other half of minting revenue will be used to fund the next project which will mimic this model until Russia's senseless war ends, and the Ukrainian people are secure.
+        <TweetEmbed tweetId="1498676695607480327" />
         </div>
 
         <div id="link3" className="container card">
