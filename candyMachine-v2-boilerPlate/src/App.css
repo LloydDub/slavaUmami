@@ -151,11 +151,11 @@ nav a:hover {
   }
 
   .nav-logo {
-    height: 50px !important;
+    height: auto !important;
   }
 
   nav {
-    height: 100px;
+    height: auto;
   }
 }
 
@@ -320,9 +320,7 @@ header {
 
 .custom-mint-container {
   margin-bottom: 20px;
- }
-
-
+}
 
 .loading:after {
   content: " .";
@@ -347,5 +345,3 @@ header {
     text-shadow: 0.25em 0 0 white, 0.5em 0 0 white;
   }
 }
-
-
