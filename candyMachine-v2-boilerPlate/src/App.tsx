@@ -163,8 +163,9 @@ const App = () => {
         <div id="link2" className="container">
           On March 1 2022 while scrolling Twitter in complete dismay at the Russian war of agression I saw this tweet from Mykhailo Fedorov, 
           Vice Prime Minister of Ukraine and Minister of Digital Transformation of Ukraine. I had been thinking about a way to help and that tweet inspired me. I am a new developer and I
-          like to make stuff. I am using what resources I have available to me to launch this project. Half of the minting revenue will be going directly to Ukraine's Solana wallet, as will 100% of secondary sales. I
-          The other half of minting revenue will be used to fund the next project which will mimic this model until Russia's senseless war ends, and the Ukrainian people are secure.
+          like to make stuff. I am using what resources I have available to me to launch this project. Half of the minting revenue will be going directly to Ukraine's Solana wallet, 
+          as will 100% of secondary sales. The other half of minting revenue will be used to fund the 
+          next project which will mimic this model until Russia's senseless war ends, and the Ukrainian people are secure.
         <TweetEmbed tweetId="1498676695607480327" />
         </div>
 
