@@ -164,34 +164,36 @@ const App = () => {
           On March 1 2022 while scrolling Twitter in complete dismay at the Russian war of agression I saw this tweet from Mykhailo Fedorov, 
           Vice Prime Minister of Ukraine and Minister of Digital Transformation of Ukraine. I had been thinking about a way to help and that tweet inspired me. I am a new developer and I
           like to make stuff. I am using what resources I have available to me to launch this project. Half of the minting revenue will be going directly to Ukraine's Solana wallet, 
-          as will 100% of secondary sales. The other half of minting revenue will be used to fund the 
-          next project which will mimic this model until Russia's senseless war ends, and the Ukrainian people are secure.
+          as will 100% of secondary sales. 100% of the other half of the minting revenue will be used to fund a more robust NFT project, hiring Ukrainian digital artists and developers to continue this project along these lines
+          until Russia's senseless war ends, and the Ukrainian people are secure.
         <TweetEmbed tweetId="1498676695607480327" />
         </div>
 
         <div id="link3" className="container card">
-          <h1 className="pb-3">Lorem ipsum</h1>
+          <h1 className="pb-3">Examples of the Mint</h1>
         </div>
 
         <div id="link4" className="container faq">
           <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
           <div>
-            <h4>Lorem ipsum?</h4>
+            <h4>Who are you?</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
+              My name is Lloyd and I come from Calgary, Canada. I am new developer and am really interested in Web3 and Block-Chain
+              technology. The Russian attack began on the eve of my final project presentation. I planned on launching this
+               collection under a different name in the hopes of making some money
+              and learning how to develop on Solana. I decided to switch gears, I do not have a lot but my life and home are safe. People in Ukraine do not have that priveledge. 
+
             </p>
 
             <hr />
           </div>
 
           <div>
-            <h4>Lorem ipsum?</h4>
+            <h4>Why shouldn't I donate directly?</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
+            That is a way better option. Do that. Do not buy this NFT.
+               If you only have 0.1 Sol to give. Give it directly to Ukraine. But I am hoping this project grows, I am hoping to transfer it to a Ukrainian.
+               The hope is that the project will provide opportunity to people from Ukraine post-conflict.
             </p>
 
             <hr />
