@@ -181,12 +181,12 @@ const App = () => {
         <div id="link4" className="container faq">
           <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
           <div>
-            <h4>Who are you?</h4>
+            <h4>Who are you and why are you doing this?</h4>
             <p>
               My name is Lloyd and I come from Calgary, Canada. I am new developer and am really interested in web3 and block-chain
               technology. On March 1 2022 while scrolling Twitter in complete dismay at the Russian war of agression I saw the above tweet from Mykhailo Fedorov, 
              Vice Prime Minister of Ukraine and Minister of Digital Transformation of Ukraine. I had been thinking about a way to help and that tweet inspired me. I am a new developer and I
-             like to make stuff. I am using what resources I have available to me to launch this project. Half of the minting revenue will be going directly to Ukraine's Solana address 
+             like to make stuff. I am learning and was working on a noodle based NFT collection, rather then creating a NFT that adds nothing to the world I am using what resources I have available to me to launch this project. Half of the minting revenue will be going directly to Ukraine's Solana address 
              as will 100% of secondary sales. 100% of the other half of the minting revenue will be used to fund a more robust NFT project, hiring Ukrainian digital artists and developers to continue this project along these lines
              until Russia's senseless war ends, and the Ukrainian people are secure. 
 
@@ -213,7 +213,8 @@ const App = () => {
             </p>
             
              <p> 50% of the mint is donated directly to the Defense of Ukraine's Solana address.</p>
-              <p>The other 50% of the mint will be used to create a more robust and traditonal NFT project on Solana and will also be used to hire Ukrainian talent.</p>
+              <p>The other 50% of the mint will be used to create a more robust and traditonal NFT
+                 project on Solana and will also be used to hire Ukrainian talent. And 100% of that project's revenue will go to Ukr as well.</p>
              <p> 100% of secondary sales goes to Ukraine's Solana address</p>
                 
             
@@ -244,6 +245,15 @@ const App = () => {
               Here is proof of secondary sale distribution, please review the conrtract on Solana. Feel free to reach out to me personally on twitter.
                        </p>
                        <img id="Proof" src="/img/secondarySales.png" alt="" />
+
+            <hr />
+          </div>
+          <div>
+            <h4>Anything Else?</h4>
+            
+             <p> Please consider donating directly.</p>
+              <a href="https://how-to-help-ukraine-now.super.site/">A comprehensive list for foreigners to help.</a>
+             
 
             <hr />
           </div>
